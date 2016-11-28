@@ -1,0 +1,5 @@
+{
+  "name": "TableExport + Flask app",
+  "description": "A simple app demonstrating the use of TableExport and Flask.",
+  "addons": ["heroku-postgresql:hobby-dev"]
+}
