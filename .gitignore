@@ -46,7 +46,6 @@ docs/_build
 env/
 
 .idea
-tests
 migrations
 libs
 *.db
