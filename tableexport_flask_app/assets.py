@@ -3,22 +3,22 @@
 from flask_assets import Bundle, Environment
 
 css = Bundle(
-    'libs/bootstrap/dist/css/bootstrap.css',
+    'libs/bootstrap/css/bootstrap.css',
     'css/style.css',
     filters='cssmin',
     output='public/css/common.css'
 )
 
 js = Bundle(
-    'libs/jQuery/dist/jquery.js',
-    'libs/bootstrap/dist/js/bootstrap.js',
+    'libs/jquery/jquery.js',
+    'libs/bootstrap/js/bootstrap.js',
     'js/plugins.js',
     filters='jsmin',
     output='public/js/common.js'
 )
 
 te_css = Bundle(
-    'libs/tableexport.js/dist/css/tableexport.css',
+    'libs/tableexport.js/css/tableexport.css',
     filters='cssmin',
     output='public/css/te.css'
 )
@@ -27,7 +27,7 @@ te_js = Bundle(
     'libs/xlsx-js/xlsx.core.min.js',
     'libs/blobjs/Blob.js',
     'libs/file-saverjs/FileSaver.js',
-    'libs/tableexport.js/dist/js/tableexport.js',
+    'libs/tableexport.js/js/tableexport.js',
     filters='jsmin',
     output='public/js/te.js'
 )
