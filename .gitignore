@@ -48,4 +48,5 @@ env/
 .idea
 tests
 migrations
+libs
 *.db
