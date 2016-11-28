@@ -1,0 +1,28 @@
+{
+  "name": "xlsx-js",
+  "version": "0.8.7",
+  "description": "Excel 5.0/95 and 97-2004 spreadsheet (BIFF5 XLS / BIFF8 XLS / XML 2003) parser",
+  "keywords": [
+    "excel",
+    "xlsx",
+    "office",
+    "spreadsheet"
+  ],
+  "authors": [
+    "clarketm <travis.m.clarke@gmail.com>",
+    "sheetjs"
+  ],
+  "main": "./xlsx",
+  "dependencies": {
+    "jzip": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/clarketm/js-xlsx/issues"
+  },
+  "homepage": "https://github.com/clarketm/js-xlsx#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/clarketm/js-xlsx.git"
+  },
+  "license": "Apache-2.0"
+}

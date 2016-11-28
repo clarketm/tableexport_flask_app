@@ -1,0 +1,30 @@
+{
+  "name": "jzip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jzip.js",
+  "authors": [
+    "clarketm"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jszip"
+  ],
+  "homepage": "https://www.travismclarke.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.0",
+    "commit": "ca81b063424ea31f19b531c7bc9136dc19a75ea1"
+  },
+  "_source": "https://github.com/clarketm/jzip.git",
+  "_target": "^1.0.0",
+  "_originalSource": "jzip"
+}

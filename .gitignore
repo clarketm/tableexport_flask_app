@@ -45,7 +45,12 @@ docs/_build
 # Virtualenvs
 env/
 
+# Python cache
+*/**/__pycache__/
+
+# Intellij
 .idea
+
+# Database / Libraries
 migrations
-libs
 *.db

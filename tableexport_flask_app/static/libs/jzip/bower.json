@@ -1,0 +1,21 @@
+{
+  "name": "jzip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jzip.js",
+  "authors": [
+    "clarketm"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jszip"
+  ],
+  "homepage": "https://www.travismclarke.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

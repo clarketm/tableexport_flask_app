@@ -1,0 +1,35 @@
+{
+  "name": "blobjs",
+  "version": "1.1.0",
+  "description": "native Blob interface support (polyfill)",
+  "main": "Blob.js",
+  "authors": [
+    "clarketm <travis.m.clarke@gmail.com>",
+    "eligrey <~@eligrey.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "blob",
+    "Blob",
+    "filesaver",
+    "polyfill",
+    "shim"
+  ],
+  "homepage": "https://github.com/clarketm/Blob.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "1.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.1.0",
+    "commit": "25ef1c33373a1bcd1fe8fb280d1bc0921e2802aa"
+  },
+  "_source": "https://github.com/clarketm/Blob.js.git",
+  "_target": "^1.0.0",
+  "_originalSource": "blobjs"
+}
