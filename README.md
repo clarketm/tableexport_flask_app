@@ -2,7 +2,9 @@
 
 This project is a simple app demonstrating the use of [TableExport](https://github.com/clarketm/TableExport) and [Flask](http://flask.pocoo.org/). It includes a sample project that you can use as a skeleton (or template) to get started.
 
-### Checkout the [demo](https://www.travismclarke.com/te_rjs_app/app.html)!
+<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/clarketm/tableexport_flask_app.git)
+### Checkout the [demo](https://tableexport-flask-app.herokuapp.com/)!
 <br>
 
 ## Quickstart
