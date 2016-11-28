@@ -1,5 +1,12 @@
 {
   "name": "TableExport + Flask app",
   "description": "A simple app demonstrating the use of TableExport and Flask.",
-  "addons": ["heroku-postgresql:hobby-dev"]
+  "addons": ["heroku-postgresql:hobby-dev"],
+  "env": {
+    "FLASK_APP": "/app/autoapp.py",
+    "FLASK_DEBUG": "0"
+  },
+  "scripts": {
+    "postdeploy": "sh setup-db.sh"
+  }
 }
