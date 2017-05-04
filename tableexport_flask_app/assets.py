@@ -24,7 +24,7 @@ te_css = Bundle(
 )
 
 te_js = Bundle(
-    'libs/xlsx-js/xlsx.core.min.js',
+    'libs/js-xlsx/xlsx.core.min.js',
     'libs/blobjs/Blob.js',
     'libs/file-saverjs/FileSaver.js',
     'libs/tableexport.js/js/tableexport.js',
