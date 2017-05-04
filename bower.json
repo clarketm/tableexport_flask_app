@@ -3,7 +3,7 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "jquery": "^3.1.1",
-    "tableexport.js": "^4.0.0-rc.4",
+    "tableexport.js": "^4.0.0-rc.5",
     "font-awesome": "^4.7.0"
   }
 }
