@@ -30,7 +30,7 @@ Then run the following commands to bootstrap your environment.
 ``` bash
 git clone https://github.com/clarketm/tableexport_flask_app
 cd tableexport_flask_app
-pip install -r requirements.txt
+pip install -r requirements/dev.txt
 bower install
 flask run
 ```
