@@ -1,4 +1,4 @@
-/*! FileSaver.js v1.3.5
+/*! FileSaver.js v1.3.6
  *
  * A saveAs() FileSaver implementation.
  *
@@ -151,7 +151,7 @@
             ;
         // IE 10+ (native saveAs)
         if (typeof navigator !== "undefined" && navigator.msSaveOrOpenBlob) {
-            return function (blob, name, no_auto_bom) {
+            saveAs = function (blob, name, no_auto_bom) {
                 name = name || blob.name || "download";
 
                 if (!no_auto_bom) {
