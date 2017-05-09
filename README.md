@@ -44,6 +44,8 @@ flask db init
 flask db migrate
 flask db upgrade
 flask run
+
+# open browser to `localhost:5000`
 ```
 
 ## Deployment
