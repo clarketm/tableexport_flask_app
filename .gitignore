@@ -54,3 +54,6 @@ env/
 # Database / Libraries
 migrations
 *.db
+
+# Assets
+libs
