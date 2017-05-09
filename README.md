@@ -33,6 +33,8 @@ cd tableexport_flask_app
 pip install -r requirements/dev.txt
 bower install
 flask run
+
+# open browser to `localhost:5000`
 ```
 
 You will see a pretty welcome screen.
@@ -44,6 +46,8 @@ flask db init
 flask db migrate
 flask db upgrade
 flask run
+
+# open browser to `localhost:5000`
 ```
 
 ## Deployment
