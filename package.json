@@ -1,0 +1,31 @@
+{
+  "name": "tableexport_flask_app",
+  "version": "1.0.0",
+  "description": "A simple app demonstrating the use of TableExport and Flask.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "bower update"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarketm/tableexport_flask_app.git"
+  },
+  "keywords": [
+    "node",
+    "flask",
+    "tableexport"
+  ],
+  "author": "Travis Clarke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clarketm/tableexport_flask_app/issues"
+  },
+  "homepage": "https://github.com/clarketm/tableexport_flask_app#readme",
+  "dependencies": {
+    "bower": "^1.8.0"
+  }
+}
